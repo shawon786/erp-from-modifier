@@ -1,5 +1,4 @@
-# erp-from-modifier
-Add country, state &amp; life-stage in WP ERP forms
+WP ERP FORM MODIFIER
 
 A simple plugin that will allow you to add more options to different forms of HR, CRM & Accounting.
 
